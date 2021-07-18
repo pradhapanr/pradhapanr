@@ -6,7 +6,6 @@ at the University of Guelph, and I am also enrolled in the Co-op program.
 <hr>
 
 ## My Skills
-
 My best languages at this moment are:
 <ul>
   <li>Python</li>
