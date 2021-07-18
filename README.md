@@ -4,7 +4,7 @@ Hi there! My name is <b>Pradhapan Rajendran</b>, but everyone calls me Prad. I'm
 at the University of Guelph, and I am also enrolled in the Co-op program.
 
 ## My Skills
-My best languages at this moment are:
+### My best languages at this moment are:
 <ul>
   <li>Python</li>
   <li>C#</li>
@@ -13,7 +13,7 @@ My best languages at this moment are:
   <li>C/C++</li>
 </ul>
 
-The JavaScript/Web Development technologies that I work with closest are:
+### The JavaScript/Web Development technologies that I work with closest are:
 <ul>
   <li>React</li>
   <li>TypeScript</li>
