@@ -1,6 +1,6 @@
 # About me!
 
-Hi there! My name is <b>Pradhapan Rajendran</b>, but everyone calls me Prad. I'm currently heading into my third year of Honours Computer Science 
+Hi there! My name is <strong>Pradhapan Rajendran</strong>, but everyone calls me Prad. I'm currently heading into my third year of Honours Computer Science 
 at the University of Guelph, and I am also enrolled in the Co-op program.
 
 ## My Skills
@@ -28,6 +28,8 @@ at the University of Guelph, and I am also enrolled in the Co-op program.
   <li>Machine Learning with Python and Pandas</li>
   <li>Making a full fledged web application for League of Legends statistics</li>
 </ul>
+
+<hr>
 
 <strong>Some other things about me...</strong>
 <ul>
