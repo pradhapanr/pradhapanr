@@ -3,6 +3,27 @@
 Hi there! My name is <b>Pradhapan Rajendran</b>, but everyone calls me Prad. I'm currently heading into my third year of Honours Computer Science 
 at the University of Guelph, and I am also enrolled in the Co-op program.
 
+<hr>
+## My Skills
+
+My best languages at this moment are:
+<ul>
+  <li>Python</li>
+  <li>C#</li>
+  <li>JavaScript</li>
+  <li>Java</li>
+  <li>C/C++</li>
+</ul>
+
+The JavaScript/Web Development technologies that I work with closest are:
+<ul>
+  <li>React</li>
+  <li>TypeScript</li>
+  <li>React</li>
+  <li>Sass</li>
+  <li>Express.js</li>
+</ul>
+
 <strong>Some other things about me...</strong>
 <ul>
   <li>I am from Brampton, Ontario but also have moved around to Kitchener-Waterloo and Guelph</li>
