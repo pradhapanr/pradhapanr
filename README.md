@@ -13,13 +13,20 @@ at the University of Guelph, and I am also enrolled in the Co-op program.
   <li>C/C++</li>
 </ul>
 
-### The JavaScript/Web Development technologies that I work with closest are:
+### The JavaScript/web development technologies that I work with closest are:
 <ul>
   <li>React</li>
   <li>TypeScript</li>
   <li>React</li>
   <li>Sass</li>
   <li>Express.js</li>
+</ul>
+
+### What I am learning next:
+<ul>
+  <li>Functional programming with Elixir</li>
+  <li>Machine Learning with Python and Pandas</li>
+  <li>Making a full fledged web application for League of Legends statistics</li>
 </ul>
 
 <strong>Some other things about me...</strong>
