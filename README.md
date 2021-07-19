@@ -4,7 +4,7 @@ Hi there! My name is <strong>Pradhapan Rajendran</strong>, but everyone calls me
 at the University of Guelph, and I am also enrolled in the Co-op program.
 
 ## My Skills
-### My best languages at this moment are:
+### The languages I am proficient in:
 <ul>
   <li>Python</li>
   <li>C#</li>
