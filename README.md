@@ -13,7 +13,7 @@ at the University of Guelph, and I am also enrolled in the Co-op program.
   <li>C/C++</li>
 </ul>
 
-### The JavaScript/web development technologies that I work with closest are:
+### The JavaScript/web and mobile development technologies that I work with closest are:
 <ul>
   <li>React</li>
   <li>TypeScript</li>
