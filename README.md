@@ -15,7 +15,8 @@ at the University of Guelph, and I am also enrolled in the Co-op program.
 
 ### The JavaScript/web and mobile development technologies that I work with closest are:
 <ul>
-  <li>React</li>
+  <li>React/React Native</li>
+  <li>Flutter</li>
   <li>TypeScript</li>
   <li>React</li>
   <li>Sass</li>
