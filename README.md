@@ -23,7 +23,7 @@ at the University of Guelph, and I am also enrolled in the Co-op program.
   <li>Express.js</li>
 </ul>
 
-### What I am learning next:
+### What I am doing next:
 <ul>
   <li>Functional programming with Elixir</li>
   <li>Machine Learning with Python and Pandas</li>
