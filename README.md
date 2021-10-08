@@ -18,7 +18,6 @@ at the University of Guelph, and I am also enrolled in the Co-op program.
   <li>React/React Native</li>
   <li>Flutter</li>
   <li>TypeScript</li>
-  <li>React</li>
   <li>Sass</li>
   <li>Express.js</li>
 </ul>
