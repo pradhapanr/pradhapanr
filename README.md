@@ -36,7 +36,7 @@ at the University of Guelph, and I am also enrolled in the Co-op program.
 <ul>
   <li>I am from Brampton, Ontario but also move around to Kitchener-Waterloo and Guelph</li>
   <li>I am a huge soccer fan, and I will always support Arsenal no matter how much they dissapoint me</li>
-  <li>I briefly played competitive League of Legends at the collegiate level and peaked in the top 1000 players in a playerbase of 2 million</li>
+  <li>I play League of Legends at the collegiate level and peaked in the top 1000 players in a playerbase of 2 million</li>
 </ul>
 
 
