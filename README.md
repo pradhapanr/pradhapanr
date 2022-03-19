@@ -1,6 +1,6 @@
 # About me!
 
-Hi there! My name is <strong>Pradhapan Rajendran</strong>, but everyone calls me Prad. I'm currently heading into my third year of Honours Computer Science 
+Hi there! My name is <strong>Pradhapan Rajendran</strong>, but everyone calls me Prad. I'm currently in my third year of Honours Computer Science 
 at the University of Guelph, and I am also enrolled in the Co-op program.
 
 ## My Skills
