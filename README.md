@@ -1,9 +1,9 @@
 # About me!
 
-Hi there! My name is <strong>Pradhapan Rajendran</strong>, but everyone calls me Prad. I'm currently in my fourth year of Honours Computer Science 
-at the University of Guelph, and I am also enrolled in the Co-op program.
+Hi there! My name is Pradhapan, but everyone calls me **Prad**. I'm currently in my fifth year of Honours Computer Science 
+at the University of Guelph. I'm mostly experienced in cloud engineering, but I also enjoy exploring distributed computing problems.
 
-I'm currently interning at Amazon Web Services, building [serverless tooling](https://github.com/aws/serverless-application-model) on the Serverless Application Experience Team.
+If you're a GraphQL developer, you may be interested in the [tooling I built](https://aws.amazon.com/blogs/mobile/aws-sam-now-supports-graphql-applications-with-aws-appsync/) for the [Serverless Application Model](https://github.com/aws/serverless-application-model) to support AppSync!
 
 <!---
 pradhapanr/pradhapanr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
