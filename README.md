@@ -2,6 +2,7 @@
 
 Hi there! My name is Pradhapan, but everyone calls me **Prad**. I'm currently in my fifth year of Honours Computer Science 
 at the University of Guelph. I'm mostly experienced in cloud engineering, but I also enjoy exploring distributed computing problems.
+I have more stuff about me on my [website](https://pradr.com) if you're curious.
 
 If you're a GraphQL developer, you may be interested in the [tooling I built](https://aws.amazon.com/blogs/mobile/aws-sam-now-supports-graphql-applications-with-aws-appsync/) for the [Serverless Application Model](https://github.com/aws/serverless-application-model) to support AppSync!
 
